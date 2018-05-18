@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE xbel>
+<xbel version="1.0">
+ <game path="../landscape/LandscapeMountains.exe" taskkill="UE4Game.exe" name="oculus plane">
+  <time price="60" delay="0" default="360" min="60" max="720" argument="-playTime" fixed="false"/>
+  <argument key="-ringAdds" hidden="true">
+   <value default="30" min="10" max="100"/>
+  </argument>
+  <argument key="-maxRings" hidden="true">
+   <value default="10" min="5" max="15"/>
+  </argument>
+ </game>
+ <game path="C:/Users/hreymene/Documents/build-remoteGamesControll-Desktop_Qt_5_8_0_MSVC2013_64bit-Release/games/2_AutoClicker.exe" name="2_AutoClicker">
+  <time price="60" delay="0" default="360" min="60" max="720" fixed="0"/>
+ </game>
+ <game path="C:/Users/hreymene/Documents/build-remoteGamesControll-Desktop_Qt_5_8_0_MSVC2013_64bit-Release/games/Catacomb Kids.url" name="Catacomb Kids">
+  <time price="60" delay="0" default="360" min="60" max="720" fixed="0"/>
+ </game>
+ <game path="C:/Users/hreymene/Documents/build-remoteGamesControll-Desktop_Qt_5_8_0_MSVC2013_64bit-Release/games/foobar2000.lnk" name="foobar2000">
+  <time price="60" delay="0" default="360" min="60" max="720" fixed="0"/>
+ </game>
+</xbel>

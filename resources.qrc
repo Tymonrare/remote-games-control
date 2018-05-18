@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/TestClient.qml</file>
+        <file>res/play-pressed.png</file>
+        <file>res/play-unpressed.png</file>
+        <file>res/stop-pressed.png</file>
+        <file>res/stop-unpressed.png</file>
+        <file>res/title.png</file>
+        <file>res/GameCard.qml</file>
+        <file>res/TestClient_copy.qml</file>
+        <file>res/gamepad.jpg</file>
+        <file>res/logo.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel>
+<xbel version="1.0">
+<game name="oculus plane" path="games/LandscapeMountains.exe-link.lnk">
+	<time min="60" default="360" max="720" argument="-playTime"/>
+	<argument key="-ringAdds" hidden="true">
+		<value min="10" max="100" default="30"/>
+	</argument>
+	<argument key="-maxRings" hidden="true">
+		<value min="5" max="15" default="10"/>
+	</argument>
+</game>
+</xbel>
